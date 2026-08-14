@@ -1,1 +1,1 @@
-# xulauncher-updates
+Launcher in the releases!
